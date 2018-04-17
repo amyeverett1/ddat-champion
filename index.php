@@ -9,7 +9,7 @@
 <div class="container index">
 
     <div class="accordion">
-         <h3><i class="fa fa-info-circle fa-lg" aria-hidden="true"></i> <span class="two-lines">About the DD<div class="caps-change">a</div>T Roundtable events</span></h3>
+         <h3><i class="fa fa-info-circle fa-lg" aria-hidden="true"></i><span>Event Information</span></h3>
     <div>
         <div class="wrapper">
             <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team.</p>
@@ -25,55 +25,20 @@
     </div><!-- end venue-->
 
 
-         <h3><i class="fa fa-calendar fa-lg" aria-hidden="true"></i> <span>Previous events</span></h3>
+         <h3><i class="fa fa-calendar fa-lg" aria-hidden="true"></i> <span>Booking</span></h3>
     <div>
         <div class="wrapper">
-            <p>In 2017 we held roundtable events at:</p>
 
-            <ul>
-                <li>Liverpool - 25 April</li>
-                <li>London - 27 April</li>
-                <li>Bedfont Lakes - 15 May</li>
-                <li>Hendon - 25 May</li>
-                <li>Sheffield - 7 June</li>
-                <li>Southport - 22 June</li>
-                <li>Croydon - 17 July</li>
-                <li>London - 26 July</li>
-                <li>Hendon - 9 August</li>
-                <li>Croydon - 7 September</li>
-                <li>Sheffield - 7 September</li>
-                <li>Liverpool &amp; Southport - 19 October</li>
-                <li>Croydon - 21 November</li>
-                <li>Bedfont Lakes - 29 November</li>
-                <li>Hendon - 30 November</li>
-                <li>Sheffield - 4 December</li>
-
-            </ul>
-
-              <p>Our 2018 roundtables have included:</p>
-
-            <ul>
-                <li>Croydon - 25 January</li>
-                <li>Hendon - 7 February</li>
-                <li>Liverpool - 8 March</li>
-                <li>Southports - 8 March</li>
-                <li>Sheffield - 15 March</li>
-                <li>Bedfont Lakes - 27 March</li>
-
-            </ul>
 
         </div><!--wrapper-->
     </div><!-- end venue-->
 
 
               <h3 class="ui-accordion-header">
-         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Croydon - 9 May</span></h3>
+         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Location</span></h3>
      <div>
         <div class="wrapper">
-            <p>Our next roundtable event in Croydon will be held on on 9th May 2018.</p>
-<p>Please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications inbox</a> if there are any specific topics or issues you would like added to the agenda.</p>
-            <div class="button_container_first">
-                <a class="btTxt" href="/croydon.php">View event</a>
+          
             </div>
         </div><!--wrapper-->
         </div><!-- end hendon-->
@@ -83,7 +48,7 @@
     <div class="coming-soon ui-accordion">
     </div><!-- coming soon-->
 
-    <div class="accordion">
+  <!--  <div class="accordion">
 
     <h3><i class="fa fa-calendar fa-lg" aria-hidden="true"></i> <span>Future events</span></h3>
         <div>
@@ -95,17 +60,14 @@
             </ul>
 
 <p><strong>Please keep revisiting this tab for the latest forward look information.</strong></p>
-            </div> <!-- wrapper-->
-        </div><!-- end register-->
+            </div> <!-- wrapper
+        </div><!-- end register
 
 </div><!--end accordion-->
 
 
         <footer>
             <p>For the best experience using this site, we recommend you use Google Chrome or the Microsoft Edge browser.</p>
-            <div class="footer_button_container">
-       <a class="btTxt" href="https://ddat-together-events.herokuapp.com/"><i class="fa fa-angle-double-left fa-lg" aria-hidden="true"></i> Back to the main DDaT events site</a>
-            </div>
     </footer>
 
 </div>
