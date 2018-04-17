@@ -1,9 +1,9 @@
 <?php include('header.php') ?>
-    <h1>DDaT Together Roundtables</h1>
+    <h1>Cross Government All Age Network</h1>
 </header>
 
 <div class="date">
-    <span>Events across the UK</span>
+    <span>Date, Time, Location</span>
 </div>
 
 <div class="container index">

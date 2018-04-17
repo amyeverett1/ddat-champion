@@ -1,5 +1,5 @@
 html {
-    background-color: #002664;
+    background-color: #8F23B3;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -156,7 +156,7 @@ b, strong {
 /* icons */
 
 i {
-    color: #002664;
+    color: #8F23B3;
     width: 42px;
 }
 
@@ -167,7 +167,7 @@ i {
 /* links */
 
 a {
-    color: #002664!important;
+    color: #8F23B3!important;
     text-decoration: none;
     word-wrap: break-word;
 }
@@ -316,7 +316,7 @@ form label > span {
 .btTxt {
     padding: 10px;
     border-radius: 5px;
-    background-color: #002664;
+    background-color: #8F23B3;
     color: #fff!important;
     border: 0 none;
     border-bottom: 5px solid #0a4d84;
@@ -330,7 +330,7 @@ form label > span {
 }
 
 .btTxt:hover {
-    background-color: #002664;
+    background-color: #8F23B3;
     border-bottom: 5px solid #0a4d84;
     cursor: pointer;
     text-decoration: none;
@@ -391,7 +391,7 @@ form label > span {
 
 .accordion h3.ui-state-active {
     color: #fff!important;
-    background: #002664!important;
+    background: #8F23B3!important;
 }
 
 .accordion > h3.ui-state-active > i {
@@ -402,7 +402,7 @@ form label > span {
     font-size: 1.2em!important;
     text-align: left;
     background: #fff!important;
-    color: #002664!important;
+    color: #8F23B3!important;
     letter-spacing: 1px;
     border: 1px solid #dddddd;
 }
@@ -428,7 +428,7 @@ form label > span {
 
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
     border: 0 none!important;
-    background: #002664!important;
+    background: #8F23B3!important;
 }
 
 .wrapper.vote {
@@ -449,7 +449,7 @@ footer {
 }
 
 footer p  {
-    color: #002664!important;
+    color: #8F23B3!important;
     text-align: center;
     font-size: 0.8em;
     font-family: 'Helvetica Neue', Arial, sans-serif;
