@@ -72,7 +72,7 @@
 
             <div class="logo_box">
               <img src="/img/logo.png" alt="">
-              <img src="/img/M.png" alt="">
+              <img class="moj" src="/img/M.png" alt="">
             </div>
     </footer>
 
