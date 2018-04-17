@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Date, Time, Location</span>
+    <span>14 May 2018 - 14:30-16:30 - LG62, Home Office, 2 Marsham Street, London SW1P 4DF</span>
 </div>
 
 <div class="container index">
@@ -12,16 +12,17 @@
          <h3><i class="fa fa-info-circle fa-lg" aria-hidden="true"></i><span>Event Information</span></h3>
     <div>
         <div class="wrapper">
-            <p>Lorem ipsum dolor sit amet, eos et ferri solum detracto, an vivendo omittam detracto nam. Accusamus assueverit vel et. Ut cum quot nulla delicatissimi, saepe iudico comprehensam no mel. Ut cum graece eruditi, falli molestiae te est, at mel omnes ponderum invenire. Ridens fierent quo in.</p>
+            <p>The HO/MoJ are hosting a Generational Diversity event on 14 May in Room LG62, 2 Marsham Street from around 2.30-4.30pm to raise awareness of diversity issues in the workplace for all ages and to encourage wider debate and sharing of information.</p>
 
-<p>No enim audire persequeris mei. Error intellegat id mea, vel diam ludus an. Ex per sumo tota omittam, id quo case legendos. Te wisi aperiam eleifend cum, id ius veri contentiones, nam ea probo tantas facilisis. At vel alii ferri, duo dicit epicuri ad.</p>
+<h3>Speakers/Contributors will include:</h3>
 
-<p>Sea putent invenire delicatissimi no, ea eam mundi vocibus iracundia. Munere consequuntur reprehendunt has ei, dicat assum usu te. At cum sonet legere ocurreret, eu tantas intellegam eum. Choro facilisi pri in, nonumy voluptua ei mea. Errem perfecto sit an, error scaevola sententiae quo ne.</p>
-
-<h3>Ex dicant laboramus usu</h3>
-<p>debet simul gloriatur no eum. Vero ocurreret ius ne. His ut case ridens complectitur. Tota nominati gloriatur ad his, facer iudicabit interesset ei vis, alii solet persequeris ea est. Ludus labitur facilisi te vis. Eum in dicunt feugiat.</p>
-
-<p>Commune intellegam definitionem quo ei, nam soluta viderer molestie at, te denique molestiae reformidans qui. Hinc docendi temporibus id nam, ei nibh nominavi dissentiunt ius. Vix in iudico laudem detracto. Et eros choro fuisset ius. Et nec graeci splendide neglegentur, elitr vocent no pri.</p>
+<ul>
+  <li>Sue Owen (DCMS Permanent Secretary and Civil Service Diversity and Inclusion Champion)</li>
+<li>Philip Rutnam (Home Office Permanent Secretary and Civil Service Disability Champion)</li>
+<li>Lorna Froelich and Hannah Benaim (Whitehall Industry Group - Early Careers Network/Millennium Mentors)</li>
+<li>and more to follow</li>
+</ul>
+<p>AAM+1 - In line with the All Ages Matter (AAM) theme, if you have been in the Civil Service for a number of years are encouraged to invite someone to join you who is at beginning of their career.</p>
         </div><!--wrapper-->
     </div><!-- end venue-->
 
@@ -29,7 +30,26 @@
          <h3><i class="fa fa-calendar fa-lg" aria-hidden="true"></i> <span>Booking</span></h3>
     <div>
         <div class="wrapper">
+          <div id="eventbrite-widget-container-45259561567"></div>
 
+          <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+          <script type="text/javascript">
+              var exampleCallback = function() {
+                  console.log('Order complete!');
+              };
+
+              window.EBWidgets.createWidget({
+                  // Required
+                  widgetType: 'checkout',
+                  eventId: '45259561567',
+                  iframeContainerId: 'eventbrite-widget-container-45259561567',
+
+                  // Optional
+                  iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                  onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+              });
+          </script>
 
         </div><!--wrapper-->
     </div><!-- end venue-->
@@ -71,7 +91,7 @@
             <p>For the best experience using this site, we recommend you use Google Chrome or the Microsoft Edge browser.</p>
 
             <div class="logo_box">
-              <img src="/img/logo.png" alt="">
+              <img src="/img/ho-logo.png" alt="">
               <img class="moj" src="/img/M.png" alt="">
             </div>
     </footer>
