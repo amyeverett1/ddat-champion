@@ -58,9 +58,12 @@ h4 {
 
 h1 {
     text-align: center;
-    color: #fff!important;
-    font-size: 1.8em;
-    font-weight: 300;
+      color: #fff!important;
+      font-size: 2em;
+      font-weight: 300;
+      width: 600px;
+      margin: 1em auto 0 auto;
+      line-height: 1.3em;
 }
 
 p {
@@ -521,6 +524,17 @@ footer p  {
 @media screen and (max-width: 595px) {
         header {
         height: 150px;
+    }
+
+    h1 {
+      text-align: left;
+      color: #fff!important;
+      font-size: 2em;
+      font-weight: 300;
+      width: 100%;
+      margin: 1em auto 1em 1em;
+      line-height: 1.3em;
+      float: left;    
     }
 
 }
