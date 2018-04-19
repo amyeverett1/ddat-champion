@@ -1,5 +1,5 @@
 <?php include('header.php') ?>
-    <h1>Cross Government All Age Network</h1>
+    <h1>All Ages Matter - Cross-Government Generational Diversity networking event</h1>
 </header>
 
 <div class="date">
