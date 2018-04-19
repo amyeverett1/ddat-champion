@@ -12,17 +12,21 @@
          <h3><i class="fa fa-info-circle fa-lg" aria-hidden="true"></i><span>Event Information</span></h3>
     <div>
         <div class="wrapper">
-            <p>The HO/MoJ are hosting a Generational Diversity event on 14 May in Room LG62, 2 Marsham Street from around 2.30-4.30pm to raise awareness of diversity issues in the workplace for all ages and to encourage wider debate and sharing of information.</p>
+
+<p>Between 2012 and 2022, an estimated 12.5 million jobs will be opened up by people leaving the workforce, and an additional 2 million jobs will be created – yet only 7 million younger people will enter the workforce to fill them. The number of people aged 65 and over has grown  by almost half over the last 40 years, and now makes  up nearly one fifth of the population. By 2050 it is expected to nearly double, to around 19 million so the need to retain, retrain and recruit younger and older workers is becoming increasingly important.</p>
+
+<p>For the first time in history, up to five generations are now working side by side and we all play a part in ensuring the Civil Service workplace is inclusive, collaborative and rewarding for everyone. Join us for our first All Ages Matter networking event to help shape the workforce of the future. </p>
+
+<p>The HO/MoJ are hosting a Generational Diversity event on 14 May in Room LG62, 2 Marsham Street from 2.30-4.30pm to raise awareness of diversity issues in the workplace for all ages and to encourage wider debate and sharing of information.</p>
 
 <h3>Speakers/Contributors will include:</h3>
-
 <ul>
-  <li>Sue Owen (DCMS Permanent Secretary and Civil Service Diversity and Inclusion Champion)</li>
+<li>Sue Owen (DCMS Permanent Secretary and Civil Service Diversity and Inclusion Champion)</li>
 <li>Philip Rutnam (Home Office Permanent Secretary and Civil Service Disability Champion)</li>
-<li>Lorna Froelich and Hannah Benaim (Whitehall Industry Group - Early Careers Network/Millennium Mentors)</li>
+<li> Lorna Froelich and Hannah Benaim (Whitehall Industry Group - Early Careers Network/Millennium Mentors)</li>
 <li>and more to follow</li>
-</ul>
-<p>AAM+1 - In line with the All Ages Matter (AAM) theme, if you have been in the Civil Service for a number of years are encouraged to invite someone to join you who is at beginning of their career.</p>
+ </ul>
+<p>In line with the All Ages Matter theme, if you have been in the Civil Service for a number of years you are encouraged to invite someone to join you who is at the start of their career or vice versa.</p>
         </div><!--wrapper-->
     </div><!-- end venue-->
 
