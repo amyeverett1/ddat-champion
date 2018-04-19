@@ -12,7 +12,6 @@ body {
 
 header {
     padding: 10px 0;
-    height: 100px;
 }
 
 .container {
@@ -60,7 +59,7 @@ h4 {
 h1 {
     text-align: center;
     color: #fff!important;
-    font-size: 3.2em;
+    font-size: 1.8em;
     font-weight: 300;
 }
 
@@ -75,7 +74,7 @@ p {
     display: block;
     font-family: 'Helvetica Neue', Arial, sans-serif;
     padding: 5px 0 15px 0;
-    font-size: 1.2em;
+    font-size: 1em;
     width: 90%;
     margin: 0 auto;
 }
