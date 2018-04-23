@@ -69,6 +69,7 @@ h1 {
 p {
     margin: 10px 0;
     font-family: 'Helvetica Neue', Arial, sans-serif;
+    text-align: left;
 }
 
 .date {
@@ -534,7 +535,7 @@ footer p  {
       width: 100%;
       margin: 1em auto 1em 1em;
       line-height: 1.3em;
-      float: left;    
+      float: left;
     }
 
 }

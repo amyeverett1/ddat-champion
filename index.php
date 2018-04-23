@@ -63,7 +63,8 @@
          <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Location</span></h3>
      <div>
        <p>Please bring along your government pass and allow sufficient time to get through security at 2MS.  This can take up to 10 minutes at busy times. </p>
-       <p>Home Office <br> 2 Marsham Street, <br> Westminster <br> SW1P 4DF</p>
+      <h3>Address</h3>
+      <p>Home Office <br> 2 Marsham Street, <br> Westminster <br> SW1P 4DF</p>
         <div class="wrapper">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.98415913436!2d-0.13179834912096572!3d51.495158179533114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604dd3047d689%3A0x71700a3a19e9e83d!2s2+Marsham+St%2C+Westminster%2C+London+SW1P+4DF!5e0!3m2!1sen!2suk!4v1523989956276" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
