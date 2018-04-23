@@ -72,6 +72,10 @@ p {
     text-align: left;
 }
 
+.ui-accordion-content h3 {
+  text-align: center;
+}
+
 .date {
     color:#fff!important;
     text-align: center;
