@@ -19,12 +19,14 @@
 
 <p>The HO/MoJ are hosting a Generational Diversity event on 14 May in Room LG62, 2 Marsham Street from 2.30-4.30pm to raise awareness of diversity issues in the workplace for all ages and to encourage wider debate and sharing of information.</p>
 
-<h3>Speakers/Contributors will include:</h3>
+<h3>Agenda</h3>
 <ul>
-<li>Sue Owen (DCMS Permanent Secretary and Civil Service Diversity and Inclusion Champion)</li>
-<li>Philip Rutnam (Home Office Permanent Secretary and Civil Service Disability Champion)</li>
-<li> Lorna Froelich and Hannah Benaim (Whitehall Industry Group - Early Careers Network/Millennium Mentors)</li>
-<li>and more to follow</li>
+<li>1400 – 1430: Introduction including talk on “what does research says?” (led by MoJ Digital and Technology Age Champions including User Researcher)</li>
+<li>1430 – 1500: Unconscious bias training (Stuart Hollands, MoJ)</li>
+<li>1500 – 1515: <a href="https://civilservice.blog.gov.uk/2018/03/26/update-on-our-review-of-tackling-harassment-and-misconduct/">Sue Owen (Perm Sec, DCMS/Civil Service Diversity & Inclusion Champion)</a> talk about age and Q&A</li>
+<li>1515 – 1540: Group discussions about age and experiences</li>
+<li>1540 – 1600: Philip Rutnam (Perm Sec, HO/Civil Service Disability Champion) and Glyn Williams (DG, HO) - ageing and interactive use of the health/age suit</li>
+<li>1600 – 1630: Networking, stalls, review anonymous quotes, close</li>
  </ul>
 <p>In line with the All Ages Matter theme, if you have been in the Civil Service for a number of years you are encouraged to invite someone to join you who is at the start of their career or vice versa.</p>
         </div><!--wrapper-->
