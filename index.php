@@ -29,7 +29,7 @@
 <li>1600 – 1630: Networking, stalls, review anonymous quotes, close</li>
  </ul>
 <p>In line with the All Ages Matter theme, if you have been in the Civil Service for a number of years you are encouraged to invite someone to join you who is at the start of their career or vice versa.</p>
-        </div><!--wrapper-->
+<p>This event is organised by Rachelle Hembury, Digital, Data & Technology Generational Diversity Champion, Home Office and Jodie Keens, Lead Digital & Technology Age Champion, Ministry of Justice.</p>  </div><!--wrapper-->
     </div><!-- end venue-->
 
 
