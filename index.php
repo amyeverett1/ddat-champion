@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>14 May 2018 - 14:30-16:30 - LG62, Home Office, 2 Marsham Street, London SW1P 4DF</span>
+    <span>14 May 2018 - 14:00-16:30 - LG62, Home Office, 2 Marsham Street, London SW1P 4DF</span>
 </div>
 
 <div class="container index">
