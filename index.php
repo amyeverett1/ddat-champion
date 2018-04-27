@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>14 May 2018 - 14:00-16:30 - LG62, Home Office, 2 Marsham Street, London SW1P 4DF</span>
+    <span>14 May 2018 - 14:00-16:00 - LG62, Home Office, 2 Marsham Street, London SW1P 4DF</span>
 </div>
 
 <div class="container index">
@@ -26,7 +26,7 @@
 <li>1500 – 1515: <a href="https://civilservice.blog.gov.uk/2018/03/26/update-on-our-review-of-tackling-harassment-and-misconduct/">Sue Owen (Perm Sec, DCMS/Civil Service Diversity & Inclusion Champion)</a> talk about age and Q&A</li>
 <li>1515 – 1540: Group discussions about age and experiences</li>
 <li>1540 – 1600: Philip Rutnam (Perm Sec, HO/Civil Service Disability Champion) and Glyn Williams (DG, HO) - ageing and interactive use of the health/age suit</li>
-<li>1600 – 1630: Networking, stalls, review anonymous quotes, close</li>
+<li>1600: Networking, stalls, review anonymous quotes, close</li>
  </ul>
 <p>In line with the All Ages Matter theme, if you have been in the Civil Service for a number of years you are encouraged to invite someone to join you who is at the start of their career or vice versa.</p>
 <p>This event is organised by Rachelle Hembury, Digital, Data & Technology Generational Diversity Champion, Home Office and Jodie Keens, Lead Digital & Technology Age Champion, Ministry of Justice.</p>  </div><!--wrapper-->
